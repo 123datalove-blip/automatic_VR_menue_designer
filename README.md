@@ -115,5 +115,3 @@ Over many trials, the system gradually converges to an ergonomic interface confi
   - Voronoi diagram construction and point-in-polygon,
   - trajectory feature extraction (path length, directness, jerk).
 
-git clone https://github.com/<your-username>/automatic_VR_menue_designer.git
-cd automatic_VR_menue_designer
